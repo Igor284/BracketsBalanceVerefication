@@ -1,0 +1,7 @@
+C:\Users\TurboPC\source\repos\BracketsBalanceVerefication.Solution\BracketsBalanceVerefication\bin\Debug\BracketsBalanceVerefication.exe.config
+C:\Users\TurboPC\source\repos\BracketsBalanceVerefication.Solution\BracketsBalanceVerefication\bin\Debug\BracketsBalanceVerefication.exe
+C:\Users\TurboPC\source\repos\BracketsBalanceVerefication.Solution\BracketsBalanceVerefication\bin\Debug\BracketsBalanceVerefication.pdb
+C:\Users\TurboPC\source\repos\BracketsBalanceVerefication.Solution\BracketsBalanceVerefication\obj\Debug\BracketsBalanceVerefication.csprojAssemblyReference.cache
+C:\Users\TurboPC\source\repos\BracketsBalanceVerefication.Solution\BracketsBalanceVerefication\obj\Debug\BracketsBalanceVerefication.csproj.CoreCompileInputs.cache
+C:\Users\TurboPC\source\repos\BracketsBalanceVerefication.Solution\BracketsBalanceVerefication\obj\Debug\BracketsBalanceVerefication.exe
+C:\Users\TurboPC\source\repos\BracketsBalanceVerefication.Solution\BracketsBalanceVerefication\obj\Debug\BracketsBalanceVerefication.pdb
